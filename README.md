@@ -1,1 +1,3 @@
-5CS037 2407736 2024 Diwash Adhikari
+5CS037 (Concepts and Technologies of AI) 2024
+2407736
+Diwash Adhikari
